@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Hai Minh, Computer Science students at National University of Singapore.</h3>
+<h3 align="left">Hi 👋, I'm Hai Minh, first year Computer Science students at National University of Singapore.</h3>
 &emsp;
 
 -------------------
@@ -57,7 +57,3 @@
 ### 🔥 Streak Stats
 
 ![Minh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=monnss69&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="Minh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=monnss69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
