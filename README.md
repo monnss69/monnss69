@@ -8,7 +8,7 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on [GerotechClock](https://mentor.love/) for CYF Products. 
+- 🔭 I’m currently working as a Software Engineer Intern at [CareVerse]([https://mentor.love/](https://www.careverse.sg/)).
 
 - 🌱 I’m currently learning **React, Python in Algorithmic Trading and AWS**
 
