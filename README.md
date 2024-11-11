@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh</h1>
+<h1 align="center">This is my profile</h1>
 
 -------------------
 &emsp;
