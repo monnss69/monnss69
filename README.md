@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a Software Engineer Intern at [CareVerse]([https://mentor.love/](https://www.careverse.sg/)).
 
-- 🌱 I’m currently learning **React, Python in Algorithmic Trading and AWS**
+- 🌱 I’m currently learning **Advanced React, Python in Algorithmic Trading and AWS**
 
 - 💬 Ask me about **[In Progress]**
 
