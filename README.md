@@ -8,9 +8,7 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working as a Software Engineer Intern at [CareVerse](https://www.careverse.sg/).
-
-- 🌱 I’m currently learning **Python in Algorithmic Trading, Java and C++**
+- 🌱 I’m currently learning **Microservices Architecture and AWS**
 
 - 💬 Ask me about **[In Progress]**
 
