@@ -32,7 +32,6 @@
 
 ### Databases:
 &emsp;
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
