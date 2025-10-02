@@ -8,7 +8,7 @@
 -------------------
 &emsp;
 
-- 🌱 I’m currently learning **Microservices Architecture and AWS**
+- 🌱 I’m currently building my Redis clone
 
 - 💬 Ask me about **[In Progress]**
 
